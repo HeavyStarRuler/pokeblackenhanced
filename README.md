@@ -10,7 +10,9 @@ Included below are the basic details for all changes to the vanilla game made wi
 1. Changes
    1. Overworld
       1. Functional
+         1. Improved Field Skills
       2. Visual
+         1. Following Pokemon
    2. Pokémon
       1. Evolutions
       2. Learnsets
