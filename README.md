@@ -13,7 +13,7 @@ Included below are the basic details for all changes to the vanilla game made wi
          1. [Improved Field Skills](https://github.com/HeavyStarRuler/pokeblackenhanced#improved-field-skills)
       2. [Visual](https://github.com/HeavyStarRuler/pokeblackenhanced#visual)
          1. [Following Pokémon](https://github.com/HeavyStarRuler/pokeblackenhanced#following-pok%C3%A9mon)
-   2. [Pokémon](https://github.com/HeavyStarRuler/pokeblackenhanced#archived-pok%C3%A9mon-black)
+   2. [Pokémon](https://github.com/HeavyStarRuler/pokeblackenhanced#pok%C3%A9mon)
       1. [Evolutions](https://github.com/HeavyStarRuler/pokeblackenhanced#evolutions)
       2. [Learnsets](https://github.com/HeavyStarRuler/pokeblackenhanced#learnsets)
       3. [Locations](https://github.com/HeavyStarRuler/pokeblackenhanced#locations)
