@@ -28,7 +28,11 @@ Included below are the basic details for all changes to the vanilla game made wi
 
 #### Functional
 
+##### Improved Field Skills
+
 #### Visual
+
+##### Following Pokémon
 
 ### Pokémon
 
